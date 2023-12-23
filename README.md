@@ -5,9 +5,10 @@
 ![Static Badge](https://img.shields.io/badge/Phind-black?link=https%3A%2F%2Fwww.phind.com%2Fsearch%3Fhome%3Dtru)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 
-
+<!---
 [![Burndowntheworld’s GitHub stats](https://github-readme-stats.vercel.app/api?username=burndowntheworld)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burndowntheworld)](https://github.com/anuraghazra/github-readme-stats)
+--->
 
 ![Codewars](https://github.r2v.ch/codewars?user=burndowntheworld&stroke=%23fac32a)
