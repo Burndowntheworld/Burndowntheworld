@@ -12,7 +12,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burndowntheworld)](https://github.com/anuraghazra/github-readme-stats)
 --->
 
-![Codewars](https://github.r2v.ch/codewars?user=burndowntheworld&stroke=%23b362ff&theme=purple_dark&animation=false)
+![Codewars](https://github.r2v.ch/codewars?user=burndowntheworld&stroke=%23b362ff&theme=purple_dark)
 
 </p>
 
