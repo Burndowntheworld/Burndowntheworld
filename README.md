@@ -14,6 +14,9 @@
 
 ![Codewars](https://github.r2v.ch/codewars?user=burndowntheworld&stroke=%23b362ff&theme=purple_dark)
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
 </p>
 
 ![Burndowntheworld](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
