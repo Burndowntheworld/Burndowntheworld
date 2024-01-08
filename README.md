@@ -6,7 +6,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 
 
-[![Burndowntheworld’s GitHub stats](https://github-readme-stats.vercel.app/api?username=burndowntheworld)](https://github.com/anuraghazra/github-readme-stats)
+[![Burndowntheworld’s GitHub stats](https://github-readme-stats.vercel.app/api?username=burndowntheworld&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burndowntheworld)](https://github.com/anuraghazra/github-readme-stats)
